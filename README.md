@@ -26,6 +26,8 @@ Siempre estoy explorando nuevas tecnologías, investigando modelos de aprendizaj
 ![Google BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 🔹 **Otros**  
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FF4C4C?style=for-the-badge)
