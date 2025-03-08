@@ -76,7 +76,7 @@ Siempre estoy explorando nuevas tecnologías, investigando modelos de aprendizaj
 ---
 
 ## 📩 **Contacto**
-📧 Email: [pablo.salinas@example.com](mailto:pablo.salinas@example.com)  
+📧 Email: [pablo.salinas@example.com](mailto:pablosalinasrodriguez@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/pablosalinasrodriguez](https://www.linkedin.com/in/pablosalinasrodriguez)  
 🌍 Portafolio: [pablosalinas.com](https://pablosalinas.com)  
 
